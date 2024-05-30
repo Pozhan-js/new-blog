@@ -18,7 +18,7 @@
 
 > 🎉 欢迎留言
 
-[http://niubin.site/](http://niubin.site/)
+[https://new-blog-two-ruddy.vercel.app/](https://new-blog-two-ruddy.vercel.app/)
 
 ## 结构说明
 
