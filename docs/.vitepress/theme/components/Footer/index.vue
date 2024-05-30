@@ -2,10 +2,10 @@
   <footer class="page_footer">
     <div class="author">
       Copyright ©{{ currentYear }} by
-      <a href="https://github.com/NIU-BIN" target="_blank">NIU-BIN</a>&nbsp;
-      |&nbsp; ICP备案号：
-      <a href="https://beian.miit.gov.cn/" target="_blank">
-        陕ICP备2024027341号
+      <a href="https://github.com/Pozhan-js" target="_blank">Pozhanjs</a>&nbsp;
+      |&nbsp; Vercel：
+      <a href="https://new-blog-two-ruddy.vercel.app/" target="_blank">
+        跳转 >>>
       </a>
     </div>
     <div class="badge">
