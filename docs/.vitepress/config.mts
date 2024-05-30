@@ -30,7 +30,7 @@ export default defineConfig({
       ],
     },
   },
-  title: "友人A",
+  title: "哈希米",
   themeConfig: {
     logo: "/logo.jpg",
     outline: [2, 3],
@@ -50,6 +50,14 @@ export default defineConfig({
       {
         text: "大前端",
         items: [
+          {
+            text: "JS",
+            link: "/front-end/JS/js基础知识梳理",
+          },
+          {
+            text: "Vue",
+            link: "/front-end/Vue/Vue基础知识",
+          },
           {
             text: "React",
             link: "/front-end/React/基础hook",
@@ -90,6 +98,32 @@ export default defineConfig({
         ],
       },
       {
+        text: "Vue",
+        items: [
+          {
+            text: "Vue基础知识",
+            link: "/front-end/Vue/Vue基础知识",
+          },
+          {
+            text: "Vue项目常遇问题",
+            link: "/front-end/Vue/Vue项目常遇问题",
+          },
+        ],
+      },
+      {
+        text: "JS基础",
+        items: [
+          {
+            text: "JS基础知识",
+            link: "/front-end/JS/js基础知识梳理",
+          },
+          {
+            text: "JS进阶",
+            link: "/front-end/JS/js进阶",
+          },
+        ],
+      },
+      {
         text: "network",
         items: [
           {
@@ -111,7 +145,7 @@ export default defineConfig({
         ],
       },
     ],
-    socialLinks: [{ icon: "github", link: "https://github.com/Niu-bin" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/Pozhan-js" }],
     // search: {
     //   provider: "local",
     // },
