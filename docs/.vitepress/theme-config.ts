@@ -5,10 +5,10 @@ export const themeConfig = getThemeConfig({
   author: "哈希米",
   // 评论
   comment: {
-    repo: "Niu-bin/blog",
-    repoId: "R_kgDOLMBB5Q",
+    repo: "Pozhan-js/new-blog",
+    repoId: "R_kgDOMCdKnA",
     category: "Announcements",
-    categoryId: "DIC_kwDOLMBB5c4Cc-ci",
+    categoryId: "DIC_kwDOMCdKnM4CftAE",
     inputPosition: "bottom",
   },
   // 友链

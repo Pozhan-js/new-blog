@@ -1,7 +1,7 @@
 ---
 category: Three.js
 cover: https://cdn.pixabay.com/photo/2014/04/14/20/11/pink-324175_640.jpg
-sticky: 3
+sticky: 4
 ---
 
 # Three.js 入门
