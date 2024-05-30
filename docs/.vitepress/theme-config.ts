@@ -25,5 +25,11 @@ export const themeConfig = getThemeConfig({
       desc: "前端大佬 持续输出 技术分享~",
       link: "https://wyf195075595.github.io",
     },
+    {
+      avatar: "https://avatars.githubusercontent.com/u/24354441?v=4",
+      name: "April的记录小屋",
+      desc: "前端甜美 girl~",
+      link: "https://april-tong.com",
+    },
   ],
 });
