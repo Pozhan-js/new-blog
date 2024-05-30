@@ -1,4 +1,4 @@
-# 友人 A の博客
+# 哈希米 の博客
 
 该博客由 [vitepress](https://vitepress.dev/zh/) 为基础，使用 Vue3、TypeScript 自定义改造，现已完成下述功能，✔ 为已完成
 

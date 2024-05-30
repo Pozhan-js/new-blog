@@ -2,7 +2,7 @@ import { getThemeConfig } from "./theme/utils/node";
 
 export const themeConfig = getThemeConfig({
   // 作者
-  author: "友人A",
+  author: "哈希米",
   // 评论
   comment: {
     repo: "Niu-bin/blog",
