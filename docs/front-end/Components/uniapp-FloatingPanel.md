@@ -1,6 +1,6 @@
 ---
 category: 组件
-cover: https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg
+cover: https://cdn.pixabay.com/photo/2023/07/13/06/59/canyon-8124036_1280.jpg
 ---
 
 # uniapp floating-panel
