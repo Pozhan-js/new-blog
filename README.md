@@ -21,6 +21,10 @@
 
 [https://new-blog-two-ruddy.vercel.app/](https://new-blog-two-ruddy.vercel.app/)
 
+> 🎉 线上预览模版
+
+[https://mi-admin-nu.vercel.app/](https://mi-admin-nu.vercel.app/)
+
 ## 结构说明
 
 ```

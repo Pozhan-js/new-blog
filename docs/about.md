@@ -22,6 +22,8 @@
 
 <img src="/wechat.jpg" style="width:200px; margin: 0 auto;">
 
+**个人模版在线预览地址**：[https://mi-admin-nu.vercel.app/](https://mi-admin-nu.vercel.app/)
+
 ## 关于该网站
 
 该个人博客由 vitepress 改写，自定义主题，使用[Vue3](https://cn.vuejs.org/)、[TypeScript](https://www.tslang.cn/)开发，个别组件使用[Element Plus](https://element-plus.gitee.io/zh-CN/)

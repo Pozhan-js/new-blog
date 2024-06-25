@@ -45,6 +45,10 @@ export default defineConfig({
             text: "网络",
             link: "/note/network/OSI七层模型",
           },
+          {
+            text: "组件",
+            link: "/front-end/Components/uniapp-FloatingPanel",
+          },
         ],
       },
       {
