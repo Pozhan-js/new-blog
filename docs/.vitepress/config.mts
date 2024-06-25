@@ -48,7 +48,7 @@ export default defineConfig({
         ],
       },
       {
-        text: "大前端",
+        text: "组件封装",
         items: [
           {
             text: "浮动面板(三段滑动)",
