@@ -56,7 +56,7 @@ export default defineConfig({
           },
           {
             text: "Dialog弹窗嵌套",
-            link: "/front-end/Components/uniapp FloatingPanel",
+            link: "/front-end/Components/vue Dialog",
           },
         ],
       },
