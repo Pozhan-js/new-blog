@@ -1,6 +1,6 @@
 ---
 category: Css
-cover: https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg
+cover: https://cdn.pixabay.com/photo/2024/04/04/14/56/sunrise-8675236_1280.jpg
 ---
 
 # Css 布局
