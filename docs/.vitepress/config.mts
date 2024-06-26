@@ -62,6 +62,10 @@ export default defineConfig({
             text: "table合并",
             link: "/front-end/Components/vue 合并table",
           },
+          {
+            text: "瀑布流组件",
+            link: "/front-end/Components/vue 瀑布流Grid布局",
+          },
         ],
       },
       {
