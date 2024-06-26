@@ -58,6 +58,10 @@ export default defineConfig({
             text: "Dialog弹窗嵌套",
             link: "/front-end/Components/vue Dialog",
           },
+          {
+            text: "table合并",
+            link: "/front-end/Components/vue 合并table",
+          },
         ],
       },
       {
